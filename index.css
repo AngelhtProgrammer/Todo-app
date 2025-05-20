@@ -153,6 +153,9 @@ background-color: rgb(186, 183, 21);
   #input-button{
     width: 60px;
   }
+  .todo-button-delete:hover{
+    background-color: rgba(196, 0, 0, 0.835);
+}
   #tags{
     display: flex;
     flex-direction: column;
