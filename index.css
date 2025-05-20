@@ -54,14 +54,14 @@ body {
     margin: 5px;
 }
 .todo-button-delete{
-    background-color: rgba(255, 0, 0, 0.537);
+    background-color: rgba(159, 3, 3, 0.537);
     border: solid;
     width: 150px;
     margin: 5px;
     transition: 0.3S;
 }
 .todo-button-delete:hover{
-    background-color: red;
+    background-color: rgb(255, 3, 3);
 }
 .todo-button-edit{
   display: flex;
@@ -109,7 +109,7 @@ background-color: rgb(186, 183, 21);
 #tag-total2{
    width: 150px;
     height: 30px;
-    background-color:  green;
+    background-color:  rgb(0, 148, 0);
     border-radius: 15px;
     display: flex;
     justify-content: center;
